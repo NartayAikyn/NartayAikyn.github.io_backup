@@ -7,8 +7,22 @@ description: "A showcase of my publications and projects."
 url: "https://nartayaikyn.github.io"
 author: Nartay Aikyn
 
+# Personal Details
+email: "nartay990531@gmail.com"
+phone: "+7-778-541-2333"
+location: "Astana, Kazakhstan"
+
+# Social Links
+social_links:
+  - title: "GitHub"
+    url: "https://github.com/NartayAikyn"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/nartay-aikyn/"
+
+# Navigation Links
 nav:
   - title: "Home"
     url: "/"
-  - title: "Publications"
-    url: "/publications"
+
+# Include profile photo
+profile_picture: "/assets/images/profile.jpg"
