@@ -23,8 +23,8 @@ social_links:
 nav:
   - title: "Home"
     url: "/"
-  - title: "pubs"
-    url: "/"
+  - title: "Publications"
+    url: "/pubs"
 
 # Include profile photo
 profile_picture: "/assets/images/profile.jpg"
