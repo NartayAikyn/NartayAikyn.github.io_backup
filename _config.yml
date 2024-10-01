@@ -20,7 +20,7 @@ social_links:
     url: "https://www.linkedin.com/in/nartay-aikyn/"
 
 # Navigation Links
-nav:
+navigation:
   - title: "Home"
     url: "/"
   - title: "Publications"
